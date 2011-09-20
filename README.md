@@ -43,4 +43,4 @@ rowclass for the table. This allows you to put item specifc logic into the
 Resource Item class. Resource items should extend
 Dm_Model_Resource_Db_Table_Row_Abstract.
 
-Version 0.2
+Version 0.3
